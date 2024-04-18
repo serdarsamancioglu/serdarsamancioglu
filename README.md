@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @serdarsamancioglu
-- 👀 I’m interested in Android and Java Web Development
+- 👀 android expert, BE-curious
 - 📫 Reach me via samserdar.yildiz@gmail.com
 
 <!---
