@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @serdarsamancioglu
-- 👀 android expert, BE-curious
+- 👀 android expert & backend development (SpringBoot, Golang)
 - 📫 Reach me via samserdar.yildiz@gmail.com
 
 <!---
